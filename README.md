@@ -16,7 +16,7 @@ A <b>modern</b>, <b>open-source</b>, and <b>developer-friendly</b> Telegram bot 
 [![GitHub Stars](https://img.shields.io/github/stars/TechifyBots/Auto-Approve-Bot?style=for-the-badge)](https://github.com/TechifyBots/Auto-Approve-Bot/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/TechifyBots/Auto-Approve-Bot?style=for-the-badge)](https://github.com/TechifyBots/Auto-Approve-Bot/fork)
 
-![Code Size](https://img.shields.io/github/languages/code-size/TechifyBots/Auto-Approve-Bot?style=for-the-badge)
+[![Code Size](https://img.shields.io/github/languages/code-size/TechifyBots/Auto-Approve-Bot?style=for-the-badge)](https://github.com/TechifyBots/Auto-Approve-Bot)
 
 </div>
 
