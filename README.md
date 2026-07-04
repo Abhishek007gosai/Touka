@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bannerrender.vercel.app/api?type=waving&height=300&color=gradient&text=𝗔𝘂𝘁𝗼%20𝗔𝗽𝗽𝗿𝗼𝘃𝗲%20𝗕𝗼𝘁&fontAlignY=35&fontSize=80&desc=𝘈𝘥𝘷𝘢𝘯𝘤𝘦𝘥%20𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮%20𝘑𝘰𝘪𝘯%20𝘙𝘦𝘲𝘶𝘦𝘴𝘵%20𝘔𝘢𝘯𝘢𝘨𝘦𝘳&descAlignY=60"/>
+<img src="https://bannerrender.vercel.app/api?type=waving&height=300&color=gradient&text=𝗔𝘂𝘁𝗼%20𝗔𝗽𝗽𝗿𝗼𝘃𝗲%20𝗕𝗼𝘁&fontAlignY=35&fontSize=80&desc=𝗔𝗱𝘃𝗮𝗻𝗰𝗲%20𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺%20𝗝𝗼𝗶𝗻%20𝗥𝗲𝗾𝘂𝗲𝘀𝘁%20𝗠𝗮𝗻𝗮𝗴𝗲𝗿&descAlignY=60"/>
 
 <p align="center">
 A <b>modern</b>, <b>open-source</b>, and <b>developer-friendly</b> Telegram bot that simplifies join request management with a focus on <b>performance</b>, <b>reliability</b>, and <b>ease of deployment</b>.
