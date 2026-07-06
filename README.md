@@ -138,7 +138,7 @@ Need help deploying this project? We've got you covered.
 | 🐞 **Report Bugs** | 💡 **Suggest Features** | 🚀 **Submit PRs** |
 |:------------------:|:-----------------------:|:-----------------:|
 | Found an issue? | Have an idea? | Ready to contribute? |
-| **[Open Issue](https://github.com/TechifyBots/Auto-Approve-Bot/issues)** | **[Open Discussion](https://github.com/TechifyBots/Auto-Approve-Bot/discussions)** | **[Fork & Submit](https://github.com/TechifyBots/Auto-Approve-Bot/fork)** |
+| **[Open Issue](https://github.com/TechifyBots/Auto-Approve-Bot/issues)** | **[Open Discussion](https://github.com/TechifyBots/Auto-Approve-Bot/issues)** | **[Fork & Submit](https://github.com/TechifyBots/Auto-Approve-Bot/fork)** |
 
 > [!IMPORTANT]
 > *Before opening an issue, please ensure you're using the **[latest version](https://github.com/TechifyBots/Auto-Approve-Bot)** and have followed the **[deployment guide](https://www.youtube.com/playlist?list=PLQrMSile4s5UnIEvWyKM1MKFuNg8Wfh2S)**.*
