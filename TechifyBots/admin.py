@@ -128,5 +128,5 @@ async def broadcasting_func(client: Client, message: Message):
         f"✅ Successful: <code>{len(completed_users)}</code>\n"
         f"❌ Failed/Removed: <code>{failed}</code>\n"
         f"📊 Active Users (Now): <code>{active_users}</code>",
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎭 Close", callback_data="close")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close")]]),
     )
