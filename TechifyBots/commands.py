@@ -35,8 +35,8 @@ async def start_cmd(client, message):
 
 @Client.on_message(filters.command("help") & filters.private)
 async def help_cmd(client, message):
-    tb = await message.reply("𝘏𝘢𝘷𝘪𝘯𝘨 𝘛𝘳𝘰𝘶𝘣𝘭𝘦? You're facing any problem while using a the bot or its commands contact admin 𝘣𝘦𝘭𝘰𝘸.")]]))
-    await asyncio.sleep(300)
+    tb = await message.reply("𝘏𝘢𝘷𝘪𝘯𝘨 𝘛𝘳𝘰𝘶𝘣𝘭𝘦? You're facing any problem while using a the bot or its commands contact admin 𝘣𝘦𝘭𝘰𝘸", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/EternalsHelplineBot")]]))
+    await asyncio.sleep(120)
     await tb.delete()
     try:
         await message.delete()
