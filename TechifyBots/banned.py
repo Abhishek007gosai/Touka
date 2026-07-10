@@ -49,7 +49,7 @@ async def _guard_send(client, chat_id: int):
     if await tb.is_banned(chat_id):
         try:
             await _original_send_message(client, chat_id, BAN_TEXT,
-                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("👨‍💻 ᴏᴡɴᴇʀ 👨‍💻", user_id=int(ADMIN))]])
+                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("ᴏᴡɴᴇʀ", url='https://t.me/AnimeNexusNetwork/160')]])
             )
         except:
             pass
@@ -120,7 +120,7 @@ async def global_ban_checker(client: Client, m: Message):
             m.chat.id,
             text,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("👨‍💻 ᴏᴡɴᴇʀ 👨‍💻", user_id=int(ADMIN))]]
+                [[InlineKeyboardButton("ᴏᴡɴᴇʀ", url='https://t.me/AnimeNexusNetwork/160')]]
             )
         )
     except:
